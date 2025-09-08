@@ -121,7 +121,7 @@ The Mattermost mobile device policy enables the use of mobile devices for custom
 
 #### Subscription
 
-If you are using your personal device for business-related matters, we will reimburse up to 100 USD. In some countries/regions, reimbursement of a personal phone plan for business use is considered a taxable benefit. It is your responsibility to ensure that you comply with local tax laws when filing your taxes. Positions or roles where mobile reimbursement may be needed include the following:
+If you are using your personal device for business-related matters, we will reimburse you up to your local monthly maximum each month. For details on this please refer to the pinned message in your relevant LOC chanel in Mattermost. Please note, in some countries/regions, reimbursement of a personal phone plan for business use is considered a taxable benefit. It is your responsibility to ensure that you comply with local tax laws when filing your taxes. Positions or roles where mobile reimbursement may be needed include the following:
 
 * Customer-facing roles:
   * Account Executives
@@ -135,11 +135,9 @@ If you are using your personal device for business-related matters, we will reim
   * Site Reliability Engineer
   * Support Engineers
 
-For all other positions, we will reimburse up to 50 USD.
-
 If you're unsure whether you qualify for a customer-facing role or on-call role, reach out to your manager and follow the [Manager Approval process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#manager-approval).
 
-The company doesn't currently provide mobile device subscriptions in a centralized fashion. Subscriptions should be organized by the employee and expensed monthly. Mattermost recommends the usage of a monthly subscription model where possible.
+The company doesn't currently provide mobile device subscriptions in a centralized fashion. For those paid through Deel, please continue submitting your expenses for this through Airbase.
 
 #### Hardware
 
